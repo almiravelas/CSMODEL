@@ -1,6 +1,11 @@
-
 # Survey on Overseas Filipinos 2015 // Brief Dataset Description
-Last October of 2015, the Philippine Statistics Authority (PSA) created a Survey on Overseas Filipinos (SOF). The survey was designed to gather data on the amount of overseas Filipino workers (OFW) along with their socio economic characteristics and other information related to working abroad from April to September. The remittances of the OFWs were also taken into account for the specified period. 
+Last October of 2015, the Philippine Statistics Authority (PSA) created a dataset on a Survey on Overseas Filipinos (SOF). The survey was designed to gather data on the amount of overseas Filipino workers (OFW) along with their socio economic characteristics and other information related to working abroad from April to September. The remittances of the OFWs were also taken into account for the specified period. 
+
+
+# Collection Process
+
+
+# Data Collection Implications
 
 
 # Variables // Individual Variables
