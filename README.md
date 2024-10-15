@@ -2,6 +2,7 @@
 **Overseas Filipino Identification Variables**
 - `RREG` - Region
 - `HHNUM` - Unique HH Serial Number
+
 **Survey Variables**
 - `RRPL` - Replicate
 - `RSTR` - Stratum
