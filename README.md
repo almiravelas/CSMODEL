@@ -3,13 +3,13 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 
 
 # Collection Process
-**Sampling** <br>
+**Sampling Procedure** <br>
 **The SOF used the sampling design of the 2003 Master Sample for Household Surveys.*
 1. `Domain` - **each of the country's 17 administrative regions** were considered as a domain for this survey
 2. `Sampling Frame` - the primary sampling units (PSU) were defined as a **barangay or a combination of barangays with at least 500 households**
 3. `Sample Size` - **2,835 PSUs** (330 certainty PSUs, 2,505 non-certainty PSUs)
 4. `Stratification` - the **17 regions** of the country were considered as the primary strata
-5. `Sample Selection` - to add, im sleepy
+5. `Sample Selection` - **divided into 4 sub-samples** with probability proportional to some estimated measure of size of the total number of households from the 2000 CPH
 
 **Data Collection**
 
