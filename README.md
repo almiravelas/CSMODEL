@@ -12,7 +12,12 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 5. `Sample Selection` - **divided into 4 sub-samples** with probability proportional to some estimated measure of size of the total number of households from the 2000 CPH
 
 **Data Collection**
-- TO ADDD
+- `Dates of Collection` - 2015-10-08 (October 8, 2015) - 2015-10-30  (October 8, 2015)
+- `Mode of Data Collection` - Face-to-face (F2F)
+- `Data Collection Supervision` - **supervisors** are required to have an itinerary of travel for efficiency and security, a copy of the said itinerary is also available in the field office in case of emergencies. Supervisors are also the ones who are tasked with taking action in any problems that may arise hence regional directors and provincial statistical officers are encouraged to visit them to rate their progress.
+- `Questionnaires` - **SOF Form 2** is the household (HH) control form and is the basis to determine households with members that is overseas. HHs with overseas members in the specified time period were given the SOF Form 1. The other questionnaire, SOF Form 1, is designed to gather data on the number of overseas Filipinos, their socio-economic characteristics, and their remittances.
+- `Data Collectors` - Philippine Statistics Authority (PSA)
+  
 
 
 # Data Collection Implications
