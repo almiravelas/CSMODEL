@@ -12,6 +12,7 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 5. `Sample Selection` - **divided into 4 sub-samples** with probability proportional to some estimated measure of size of the total number of households from the 2000 CPH
 
 **Data Collection**
+- TO ADDD
 
 
 # Data Collection Implications
