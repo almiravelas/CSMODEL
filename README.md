@@ -11,7 +11,7 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 4. `Stratification` - the **17 regions** of the country were considered as the primary strata
 5. `Sample Selection` - to add, im sleepy
 
-** Data Collection **
+**Data Collection**
 
 
 # Data Collection Implications
