@@ -24,6 +24,7 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 
 
 # Dataset Structure
+The survey on overseas Filipinos' data structure contains the overseas Filipino (OF) identifier and his or her data related to the survey. There are exactly `5440 observations` in the dataset each representing `1 OF which is placed per row` of the data frame. Each row contains their personal information, information about leaving or staying abroad, and data on their remittances. On the other hand, `*each column represents the values of the OFs per variable`. This particular dataset contains `48 variables`, 2 of which are used as identifiers, namely RREG (Region) and HHNUM (Unique HH Serial Number).
 
 
 # Variables // Individual Variables
