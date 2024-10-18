@@ -1,8 +1,8 @@
-# Survey on Overseas Filipinos 2015 // Brief Dataset Description
+### **Survey on Overseas Filipinos 2015**
 Last October of 2015, the Philippine Statistics Authority (PSA) created a dataset on a Survey on Overseas Filipinos (SOF). The survey was designed to gather data on the amount of overseas Filipino workers (OFW) along with their socio economic characteristics and other information related to working abroad from April to September. The remittances of the OFWs were also taken into account for the specified period. 
 
 
-# Collection Process
+### **Collection Process**
 **Sampling Procedure** <br>
 **The SOF used the sampling design of the 2003 Master Sample for Household Surveys.*
 1. `Domain` - **each of the country's 17 administrative regions** were considered as a domain for this survey
@@ -20,16 +20,16 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
   
 
 
-# Data Collection Implications
+### **Data Collection Implications**
 - socio-economic characteristics, remittance behaviors, and migration patterns of OFWs
 - 
 
 
-# Dataset Structure
+### **Dataset Structure**
 The survey on overseas Filipinos' data structure contains the overseas Filipino (OF) identifier and his or her data related to the survey. There are exactly `5440 observations` in the dataset each representing `1 OF which is placed per row` of the data frame. Each row contains their personal information, information about leaving or staying abroad, and data on their remittances. On the other hand, `*each column represents the values of the OFs per variable`. This particular dataset contains `48 variables`, 2 of which are used as identifiers, namely RREG (Region) and HHNUM (Unique HH Serial Number).
 
 
-# Variables // Individual Variables
+### **Variables**
 **Overseas Filipino Identification Variables**
 - `RREG` - Region
 - `HHNUM` - Unique HH Serial Number
