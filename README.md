@@ -21,6 +21,8 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 
 
 # Data Collection Implications
+- socio-economic characteristics, remittance behaviors, and migration patterns of OFWs
+- 
 
 
 # Dataset Structure
