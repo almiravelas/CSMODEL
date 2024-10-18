@@ -21,8 +21,10 @@ Last October of 2015, the Philippine Statistics Authority (PSA) created a datase
 
 
 ### **Data Collection Implications**
-- socio-economic characteristics, remittance behaviors, and migration patterns of OFWs
-- 
+The data collection implies that the resulting conclusions and insights will be related to `socio-economic characteristics, the migration patterns of OFWs, and the OFWs' remittance behaviors`.<br>
+There are some variables that are directly defines OFWs' socio-economic characteristics like RQ8_HGRADE (Highest Grade Completed) while some like RQ19_REASON (Reason for returning in the country) may suggest or prove their current standing.<br>
+As for the migration patterns, variables starting with RQ10 to RQ20 are related to going abroad and their length of stay overseas. It also includes the reasons for leaving or returning to the country, the expected and actual dates of returning home, the kind of work abroad, and how long they worked for overseas.<br>
+Lastly, for the remittance behaviors, variables starting with RQ21 to RQ24 are all remittance-related with 2 variables stating the amount received, the mode of remittance, and the amounts of remittance spent on certain categories. 
 
 
 ### **Dataset Structure**
